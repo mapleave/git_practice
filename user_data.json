@@ -1,0 +1,107 @@
+[
+    {
+        "username": "JohnDoe",
+        "email": "johndoe@email.com",
+        "password": "Password123"
+    },
+    {
+        "username": "AliceSmith",
+        "email": "alicesmith@email.com",
+        "password": "Love2Shop"
+    },
+    {
+        "username": "EmilyJohnson",
+        "email": "emilyjohnson@email.com",
+        "password": "MyShopping456"
+    },
+    {
+        "username": "MarkDavis",
+        "email": "markdavis@email.com",
+        "password": "ShopTillDrop"
+    },
+    {
+        "username": "SarahWilson",
+        "email": "sarahwilson@email.com",
+        "password": "FreshBuy789"
+    },
+    {
+        "username": "MichaelBrown",
+        "email": "michaelbrown@email.com",
+        "password": "MarketLover"
+    },
+    {
+        "username": "LauraTaylor",
+        "email": "laurataylor@email.com",
+        "password": "Groceries4Me"
+    },
+    {
+        "username": "ChrisLee",
+        "email": "chrislee@email.com",
+        "password": "SuperShop123"
+    },
+    {
+        "username": "JessicaChen",
+        "email": "jessicachen@email.com",
+        "password": "BuyBuyBuy456"
+    },
+    {
+        "username": "DavidWong",
+        "email": "davidwong@email.com",
+        "password": "ILoveMarket"
+    },
+    {
+        "username": "LindaMiller",
+        "email": "lindamiller@email.com",
+        "password": "ShoppingTime789"
+    },
+    {
+        "username": "KevinJohnson",
+        "email": "kevinjohnson@email.com",
+        "password": "DailyBuy123"
+    },
+    {
+        "username": "AnnaSmith",
+        "email": "annasmith@email.com",
+        "password": "FreshItemsOnly"
+    },
+    {
+        "username": "RobertWilson",
+        "email": "robertwilson@email.com",
+        "password": "GroceryCart456"
+    },
+    {
+        "username": "MariaGarcia",
+        "email": "mariagarcia@email.com",
+        "password": "SupermarketLove"
+    },
+    {
+        "username": "JamesLee",
+        "email": "jameslee@email.com",
+        "password": "ShoppingSpree789"
+    },
+    {
+        "username": "KarenBrown",
+        "email": "karenbrown@email.com",
+        "password": "FreshFoodsOnly123"
+    },
+    {
+        "username": "WilliamChen",
+        "email": "williamchen@email.com",
+        "password": "BestMarket456"
+    },
+    {
+        "username": "JenniferNguyen",
+        "email": "jennifernguyen@email.com",
+        "password": "LoveGroceries789"
+    },
+    {
+        "username": "DanielJohnson",
+        "email": "danieljohnson@email.com",
+        "password": "AlwaysShopping123"
+    },
+    {
+        "username": "StevenChen",
+        "email": "stevenchen@gmail.com",
+        "password": "Kobe0824"
+    }
+]

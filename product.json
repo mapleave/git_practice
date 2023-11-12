@@ -1,0 +1,177 @@
+[
+  {
+    "name": "牛肉",
+    "price": 300,
+    "discount": 0.95,
+    "stock": 50,
+    "remark": "澳洲進口"
+  },
+  {
+    "name": "雞胸肉",
+    "price": 80,
+    "discount": 0.9,
+    "stock": 60,
+    "remark": "臺灣產"
+  },
+  {
+    "name": "新鮮蔬菜包",
+    "price": 100,
+    "discount": 0.97,
+    "stock": 70,
+    "remark": "台南有機蔬菜農"
+  },
+  {
+    "name": "鮮魚片",
+    "price": 150,
+    "discount": 0.92,
+    "stock": 40,
+    "remark": ""
+  },
+  {
+    "name": "牛奶",
+    "price": 50,
+    "discount": 0.96,
+    "stock": 90,
+    "remark": "低脂"
+  },
+  {
+    "name": "糖",
+    "price": 20,
+    "discount": 1,
+    "stock": 200,
+    "remark": "細砂糖"
+  },
+  {
+    "name": "雞蛋",
+    "price": 30,
+    "discount": 0.98,
+    "stock": 180,
+    "remark": "產地直送"
+  },
+  {
+    "name": "蔬果汁",
+    "price": 60,
+    "discount": 0.93,
+    "stock": 55,
+    "remark": "無添加防腐劑"
+  },
+  {
+    "name": "優酪乳",
+    "price": 35,
+    "discount": 0.99,
+    "stock": 85,
+    "remark": "原味"
+  },
+  {
+    "name": "蝦",
+    "price": 250,
+    "discount": 0.9,
+    "stock": 30,
+    "remark": "冷凍"
+  },
+  {
+    "name": "羊肉",
+    "price": 280,
+    "discount": 0.94,
+    "stock": 45,
+    "remark": "澳洲進口"
+  },
+  {
+    "name": "鴨胸肉",
+    "price": 120,
+    "discount": 0.91,
+    "stock": 55,
+    "remark": "產地直送"
+  },
+  {
+    "name": "有機水果籃",
+    "price": 120,
+    "discount": 0.96,
+    "stock": 60,
+    "remark": "有機"
+  },
+  {
+    "name": "鮭魚",
+    "price": 180,
+    "discount": 0.93,
+    "stock": 35,
+    "remark": "挪威進口"
+  },
+  {
+    "name": "低脂牛奶",
+    "price": 55,
+    "discount": 0.97,
+    "stock": 70,
+    "remark": "瑞穗牧場直送"
+  },
+  {
+    "name": "黃糖",
+    "price": 25,
+    "discount": 1,
+    "stock": 220,
+    "remark": "細砂糖"
+  },
+  {
+    "name": "鵝蛋",
+    "price": 40,
+    "discount": 0.99,
+    "stock": 75,
+    "remark": "產地直送"
+  },
+  {
+    "name": "蔬菜汁",
+    "price": 65,
+    "discount": 0.94,
+    "stock": 50,
+    "remark": "無添加"
+  },
+  {
+    "name": "布丁",
+    "price": 40,
+    "discount": 0.98,
+    "stock": 95,
+    "remark": "原味"
+  },
+  {
+    "name": "龍蝦",
+    "price": 300,
+    "discount": 0.9,
+    "stock": 25,
+    "remark": "冷凍"
+  },
+  {
+    "name": "豬肉",
+    "price": 120,
+    "discount": 0.96,
+    "stock": 70,
+    "remark": "本地產"
+  },
+  {
+    "name": "火雞胸肉",
+    "price": 90,
+    "discount": 0.92,
+    "stock": 50,
+    "remark": "無激素"
+  },
+  {
+    "name": "有機蔬菜籃",
+    "price": 110,
+    "discount": 0.98,
+    "stock": 65,
+    "remark": "有機"
+  },
+  {
+    "name": "鱈魚",
+    "price": 160,
+    "discount": 0.94,
+    "stock": 40,
+    "remark": "海釣"
+  },
+  {
+    "name": "豆漿",
+    "price": 45,
+    "discount": 0.95,
+    "stock": 80,
+    "remark": "特濃版"
+  }
+]
